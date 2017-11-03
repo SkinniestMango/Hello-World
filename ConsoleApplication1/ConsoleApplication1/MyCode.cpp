@@ -29,6 +29,10 @@ int main()
 	cout << total_peas;
 	cout << " peas in all the pods.\n";
 
+	char letter;
+	cout << "Enter a letter and press return to end.\n";
+	cin >> letter;
+
 
     return 0;
 }
